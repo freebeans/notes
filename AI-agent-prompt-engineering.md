@@ -1,5 +1,5 @@
 # AI Agents Prompt Engineering
-Resumo à partir de: [Building AI Agents: Prompt Engineering for Beginners [Part 3]
+Resumo a partir de: [Building AI Agents: Prompt Engineering for Beginners [Part 3]
 ](https://www.youtube.com/watch?v=77Z07QnLlB8)
 
 ## 3 Layers of Prompting
